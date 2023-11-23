@@ -14,8 +14,8 @@
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : societree
-email      : share.bristol.uk@gmail.com
+title      : voluntree
+email      : info.voluntree@gmail.com
 author     : Mihajlo Milosavljevic
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
